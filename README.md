@@ -1,1 +1,1 @@
-# Accel_AIS328DQ-master
+# Accelerometer AIS328DQ project
