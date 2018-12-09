@@ -1,5 +1,5 @@
 /*
- * Accelerometer_AIS328DQ.cpp
+ * main.cpp
  *
  * Created: 19-12-2017 20:35:16
  * Author : Nishant Sood
